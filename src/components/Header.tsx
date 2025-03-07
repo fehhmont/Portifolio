@@ -8,7 +8,7 @@ export default function Header() {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div>
             <h1 className="text-4xl font-bold mb-4">Felipe Anthony</h1>
-            <h2 className="text-xl mb-6">Analista de Dados</h2>
+            <h2 className="text-xl mb-6">Analista de Dados / desenvolvimento Back-end</h2>
             <p className="max-w-2xl mb-6">
               Analista de dados detalhista com paixão por transformar dados em insights acionáveis. 
               Visando ajudar e aprimorar processos de tomada de decisão.
