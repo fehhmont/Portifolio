@@ -9,7 +9,10 @@ const skills = {
   ],
   soft: [
     "Atendimento ao cliente",
-    "Habilidades de Apresentação"
+    "Habilidades de Apresentação",
+    "capacidade Analítica",
+    "Resolução de problemas",
+    "Trabalho em equipe"
   ],
   languages: [
     { name: "Inglês", level: "Intermediário" },
